@@ -5,7 +5,7 @@
 Bháskara foi o mais famoso Geômetra da Índia, considerado em seu tempo por todos um importante sábio que sabia todos os segredos dos astros e estudava os mistérios dos céus. Bhaskara nasceu em Bidon, na Província de Deca em 1145 d.C. Sua primeira e principal obra *Bija-ganita* (*Bija* quer dizer *semente*, e *ganita* quer dizer *contar, avaliar, medir* ou seja *A Arte de Contar Sementes*) que continha doze capítulos e foi o primeiro a apresentar um método de cálculo de duas raízes quadradas para um número positivo.
 
 <p align="center">
-    <img src="../img/bhaskara.jpg">
+    <img src="./img/bhaskara.jpg">
     <p align="center">Bhaskara Akaria, matemático, astrônomo e astrólogo indiano.</p>
 </p>
 
