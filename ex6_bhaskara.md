@@ -175,7 +175,7 @@ Logo, as raízes dessa equação são 1 e -3/2.
 
 Ok, agora que relembramos como calcular equações de segundo grau vamos para nosso exercício de programação: 
 ``` 
-Você deve desenvolver um algoritmo em Python que calcule o resultado de uma equação quadrática.
+Você deve desenvolver um algoritmo que calcule o resultado de uma equação quadrática.
 
 Entradas:
 - Valor int de a
