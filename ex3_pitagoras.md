@@ -25,7 +25,7 @@ Isso pode parecer abstrato, mas vamos por partes:
     <img src="./img/t_retangulo.png">
 </p>
 
-2. Um quadrado é uma figura com 4 lados de mesmo tamanho, então vamos imaginar que vamos transpor cada um dos lados do triangulo retângulo em quadrados.
+2. Um quadrado é uma figura com 4 lados de mesmo tamanho, então vamos imaginar que vamos transpor cada um dos lados do triângulo retângulo em quadrados.
 
 <p align="center">
     <img src="./img/quadrados.png">
@@ -63,7 +63,7 @@ Saída:
 - Comece calculando as áreas dos quadrados e use-os para encontrar o valor da hipotenusa.
 - Você pode passar a exponenciação para o outro lado da igualdade como sua operação inversa (raíz).
 - Operações Matemáticas com Float (números decimais) não são exatas, e por tanto provavel que o valor da soma dos quadrados seja aproximadamente o quadrado da hipotenusa, mas não exato. Isso é um problema característico de linguagens de programação, não se preocupe se não for exato.
-- A área do triangulo é calculada com a seguinte fórmula:
+- A área do triângulo é calculada com a seguinte fórmula:
 
 <p align="center">
     <img src="./img/area_triangulo.png" width="300">
