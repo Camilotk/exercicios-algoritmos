@@ -45,7 +45,8 @@ Essa observação tem sido colocado a prova a milênios, sendo que outras person
 ## Programação
 
 ```
-Você deve desenvolver um algoritmo que calcule a área do triângulo (fórmula abaixo), o tamanho da hipotenusa e as áreas dos quadrados do triângulo retângulo.
+Você deve desenvolver um algoritmo que calcule a área do triângulo (fórmula abaixo),
+o tamanho da hipotenusa e as áreas dos quadrados do triângulo retângulo.
 
 Entradas:
 - Valor float de Altura
