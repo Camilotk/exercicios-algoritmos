@@ -58,3 +58,13 @@ Saída:
 - Valor da área do quadrado da base
 - Valor do tamanho do triângulo
 ``` 
+
+**dicas**:
+- Comece calculando as áreas dos quadrados e use-os para encontrar o valor da hipotenusa.
+- Você pode passar a exponenciação para o outro lado da igualdade como sua operação inversa (raíz).
+- Operações Matemáticas com Float (números decimais) não são exatas, e por tanto provavel que o valor da soma dos quadrados seja aproximadamente o quadrado da hipotenusa, mas não exato. Isso é um problema característico de linguagens de programação, não se preocupe se não for exato.
+- A área do triangulo é calculada com a seguinte fórmula:
+
+<p align="center">
+    <img src="./img/area_triangulo.png" width="300">
+</p>
