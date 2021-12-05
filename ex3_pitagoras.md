@@ -2,7 +2,7 @@
 
 ## Um pouco de história
 
-Pitágoras de Samos foi um filósofo, sábio, matemático e geômetra Grego. Ele nasceu na Ilha de Samos, por volta de 570 a.C. e desde muito novo recebeu educação dos melhores professores ao redor do mundo tendo estudado nos melhores centros de ensino da Grécia, Egito, Babilônia, Síria, Fanícia,  Pérsia e Índia. Pitágoras teve inúmeras contribuições para a Filosofia e a Matemática, mas talvez a mais importante entre elas foi justamente ele ter sido o criador do nome desses campos de estudo quando criou o Curso de Filosofia (onde estudava-se sobre o saber e o conhecimento) e o Curso de Matemática (onde estudava-se sobre o método de formalização do aprendizado) na sua Escola Pitagórica, que seria como uma Universidade de seu tempo.
+Pitágoras de Samos foi um filósofo, sábio, matemático e geômetra Grego. Ele nasceu na Ilha de Samos, por volta de 570 a.C. e desde muito novo recebeu educação dos melhores professores ao redor do mundo tendo estudado nos melhores centros de ensino da Grécia, Egito, Babilônia, Síria, Fenícia,  Pérsia e Índia. Pitágoras teve inúmeras contribuições para a Filosofia e a Matemática, mas talvez a mais importante entre elas foi justamente ele ter sido o criador do nome desses campos de estudo quando criou o Curso de Filosofia (onde estudava-se sobre o saber e o conhecimento) e o Curso de Matemática (onde estudava-se sobre o método de formalização do aprendizado) na sua Escola Pitagórica, que seria como uma Universidade de seu tempo.
 
 <p align="center">
     <img src="./img/busto.jpg" width="300">
@@ -11,13 +11,14 @@ Pitágoras de Samos foi um filósofo, sábio, matemático e geômetra Grego. Ele
 
 A Escola Pitagórica fez inúmeras descobertas como os intervalos musicais, provas de que a Terra é esférica, a seção áurea, os números perfeitos e os primeiros tratados de Geometria que estudaram os Sólidos de Platão. Porém, quando falamos de Pitágoras talvez a primeira coisa que nos veem a cabeça é a lembrança do Teorema que se estuda principalmente no Ensino Médio, onde foi definido por Pitágoras que:
 
-> Em qualquer triângulo retângulo (aquele que possui um ângulo de 90º), a área do quadradado da hipotenusa (o lado oposto ao ângulo de 90º) é igual a soma da área dos catetos (os outros 2 lados).
+> Em qualquer triângulo retângulo (aquele que possui um ângulo de 90º), a área do quadrado da hipotenusa (o lado oposto ao ângulo de 90º) é igual a soma da área dos catetos (os outros 2 lados).
 
-Apesar de Pitágoras de fato ter formulado o Teorema e ser o responsável por disseminar o conhecimento sobre essa relação no Ocidente, acreditasse que ele tenha aprendido-a em suas viagens de estudo pelo Oriente onde ela já era conhecida a milênios. Os primeiros registros dessa descoberta são Babilônicos e datam mais de um milênio antes do nascimento de Pitágoras, além disso existem registros na China e na índia que também antecedem Pitágoras (acreditasse provavelmente que através de conhecimento levado pelos Babilônios).
+Apesar de Pitágoras de fato ter formulado o Teorema e ser o responsável por disseminar o conhecimento sobre essa relação no Ocidente, acreditasse que ele tenha apreendido em suas viagens de estudo pelo Oriente onde ela já era conhecida a milênios. Os primeiros registros dessa descoberta são Babilônicos e datam mais de um milênio antes do nascimento de Pitágoras, além disso existem registros na China e na índia que também antecedem Pitágoras (acreditasse provavelmente que através de conhecimento levado pelos Babilônicos).
 
 ## Vamos a Matemática
 
-Isso pode parecer abstrado, mas vamos por partes:
+Isso pode parecer abstrato, mas vamos por partes:
+
 1. Imagine que você tem um triângulo retângulo qualquer em que você saiba apenas duas dimensões.
 
 <p align="center">
@@ -37,7 +38,7 @@ Isso pode parecer abstrado, mas vamos por partes:
     <img src="./img/areas.png" width="300">
 </p>
 
-6. Dados isso, chegamos a fórmula que os <u>lados</u> da **hipotenusaª = catetoª + cateto²**, mais conhecido como **a² = b² + c²**.  
+5. Dados isso, chegamos a fórmula que os <u>lados</u> da **hipotenusaª = catetoª + cateto²**, mais conhecido como **a² = b² + c²**.  
 
 Essa observação tem sido colocado a prova a milênios, sendo que outras personalidades como Da Vinci, Euler e Einstein também escreveram diferentes provas que confirmam que essa é uma relação real.
 
