@@ -1,6 +1,6 @@
 
 ### Exercícios - Aula 1
-- [Médias](#)
+- [Médias](./ex1_medias.md)
 - [Números Pares](#)
 - [Teorema de Pitágoras](./ex3_pitagoras.md)
 
