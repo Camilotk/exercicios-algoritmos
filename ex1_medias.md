@@ -75,6 +75,8 @@ O desvio significa a diferença entre o valor e a média. Mas devemos considerar
 - A média é um valor representativo dos dados a partir dos quais ela foi calculada;
 - Em termos espaciais, a média é o valor que está mais próximo de todos os valores.
 
+##### Texto Adaptado do Site do [IBGE](https://educa.ibge.gov.br/professores/educa-recursos/17862-media-pagina-inicial.html)
+
 ## Programação
 ``` 
 Imagine que vários desenvolvedores de software que trabalham com front-end 
