@@ -2,7 +2,7 @@
 ### Exercícios - Aula 1
 - [Médias](#)
 - [Números Pares](#)
-- [Teorema de Pitágoras](#)
+- [Teorema de Pitágoras](./ex3_pitagoras.md)
 
 ### Exercícios - Aula 2
 - [Mediana](#)
