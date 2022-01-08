@@ -1,12 +1,12 @@
 
 ### Exercícios - Aula 1
 - [Médias](./ex1_medias.md)
-- [Números Pares](#)
+- [Olá Python](#)
 - [Teorema de Pitágoras](./ex3_pitagoras.md)
 
 ### Exercícios - Aula 2
 - [Mediana](#)
-- [Moda](#)
+- [Números Pares](./ex4_pares.md)
 - [Fórmula de Báskhara](./ex6_bhaskara.md)
 
 ### Exercícios - Aula 3 
