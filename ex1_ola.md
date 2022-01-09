@@ -14,7 +14,8 @@ Para evitar que isso aconteça com a linguagem que você está aprendendo é nec
 ## Programação
 
 ```
-Para se livrar da terrível maldição do programador você deve escrever um programa que escreve as palavras "Olá mundo!" na tela. 
+Para se livrar da terrível maldição do programador você deve escrever um programa que escreve as palavras "Olá mundo!" 
+na tela. 
 
 Entradas:
 - Nenhuma
