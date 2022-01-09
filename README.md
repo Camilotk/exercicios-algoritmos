@@ -1,7 +1,7 @@
 
 ### Exercícios - Aula 1
-- [Médias](./ex1_medias.md)
 - [Olá Python](#)
+- [Médias](./ex2_medias.md)
 - [Teorema de Pitágoras](./ex3_pitagoras.md)
 
 ### Exercícios - Aula 2
