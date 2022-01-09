@@ -1,4 +1,4 @@
-# Médias
+# Média
 
 ## O que é uma Média
 
