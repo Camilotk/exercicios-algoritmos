@@ -6,7 +6,7 @@
 
 ### Exercícios - Aula 2
 - [Mediana](#)
-- [Números Pares](./ex4_pares.md)
+- [Números Pares](./ex5_pares.md)
 - [Fórmula de Báskhara](./ex6_bhaskara.md)
 
 ### Exercícios - Aula 3 
