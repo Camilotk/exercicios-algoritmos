@@ -26,7 +26,7 @@ Podemos aplicar isso para saber se um número é par porque pela regra dos núme
 </p>
 <br>
 <p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=$77 \Rightarrow 77 \div 2 =  \text{ 38, resto 1 } \Rightarrow \text{ 8 é ímpar }$" width="550">
+    <img src="https://render.githubusercontent.com/render/math?math=$77 \Rightarrow 77 \div 2 =  \text{ 38, resto 1 } \Rightarrow \text{ 77 é ímpar }$" width="550">
 </p>
 <br>
 <p align="center">
