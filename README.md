@@ -5,7 +5,7 @@
 - [Teorema de Pitágoras](./ex3_pitagoras.md)
 
 ### Exercícios - Aula 2
-- [Mediana](#)
+- [Mediana](./ex4_mediana.md)
 - [Números Pares](./ex5_pares.md)
 - [Fórmula de Báskhara](./ex6_bhaskara.md)
 
