@@ -35,7 +35,7 @@
 - [Números Binários](#): Conhecer sobre `Números na base 2` desde sua origem e escrever um algoritmo que recebe recebe hexagramas do I Ching e performa operações matemáticas entre eles.
 
 ### Exercícios - Aula 8
-- [Turtle](#): Conhecer o módulo `Turtle` do Python, aprender sobre LOGO e Pedagogia Constutivista.
+- [Turtle](#): Conhecer o módulo `Turtle` do Python, aprender sobre LOGO e Pedagogia Construtivista.
 - [Regex](#): Aprender o módulo`re` sobre como funciona Regex e a sintaxe básica de regex.
 - [SQLite](#): Conhecer o módulo `sqlite3` do Python, aprender o que é SQL, os comandos básicos de SQLite e desenvolver um programa que percorre a pasta de exercícios e salva no banco de dados os nomes dos arquivos, extensão, tamanho e número de linhas. 
 
