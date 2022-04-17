@@ -20,9 +20,9 @@
 - [Progreção Aritmética e Progressão Geométrica](#): Entender como funcionam as `progressões` e desenvolver um algoritmo que nos diga o elemento n de determinada progressão.
 
 ### Exercícios - Aula 5
-- [Calculadora RPN](#)
-- [Números Primos](#)
-- [Sequência de Fibonacci](#)
+- [Calculadora RPN](#): Entender o que é a `Notação Polonesa` e desenvolver uma calculadora que leia expressões RPN e devolva o resultado.
+- [Números Primos](#): Conhecer os `Números Primos` e fazer um algoritmo que retorne a soma de todos números primos até o número passado, caso não seja primo devolver uma exceção.
+- [Sequência de Fibonacci](#): Conhecer a `Sequência de Fibonacci` e desenvolver um algoritmo recursivo que retorno o n elemento da sequência.
 
 ### Exercícios - Aula 6
 - [Torre de Hanói](#)
