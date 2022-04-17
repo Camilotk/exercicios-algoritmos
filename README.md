@@ -40,11 +40,11 @@
 - [SQLite](#): Conhecer o módulo `sqlite3` do Python, aprender o que é SQL, os comandos básicos de SQLite e desenvolver um programa que percorre a pasta de exercícios e salva no banco de dados os nomes dos arquivos, extensão, tamanho e número de linhas. 
 
 ### Exercícios - Aula 9
-- [Escrevendo testes](#)
-- [Testes unitários](#)
-- [Testes de integração](#)
+- [Escrevendo testes](#): Aprender o que são testes e conhecer o `doctest`.
+- [Testes unitários](#): Entender como funciona o AAA (Arrange-Act-Assert) e aprender `pytest`.
+- [Testes de integração](#): Entender como escrever testes de integração com o pytest.
 
 ### Exercícios - Aula 10
-- [Livro de Visitas](#)
-- [O Jogo da Vida](#)
-- [Leitor de E-mails](#)
+- [Livro de Visitas](#): Aprender a trabalhar com a `Escrita de Arquivos` e criar um algoritmo que exibe uma lista de assinaturas de visitantes de um museu e que permite as pessoas Adicionar, Alterar e Excluir assinaturas que ficam salvas em um arquivo .txt
+- [O Jogo da Vida](#): Criar uma versão própria do `Jogo da Vida` de Conway.
+- [Leitor de E-mails](#): Fazer um programa que dado uma conta de emails exibe a caixa de entrada e lê em voz o email selecionado.
