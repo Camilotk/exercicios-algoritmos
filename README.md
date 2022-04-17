@@ -30,14 +30,14 @@
 - [Funções Compostas](#): Entender sobre `composição de funções` e escrever algoritmos que usem `High Order Functions` e `Currying`.
 
 ### Exercícios - Aula 7
-- [Conversor de Criptomoedas](#)
-- [Frquência de Palavras](#)
-- [Números Binários](#)
+- [Conversor de Criptomoedas](#): Usar o módulo urlib do Python para interagir com uma `API` que retorna valores de Criptomoedas e converter o valor de uma Criptomoeda para outra.
+- [Frequência de Palavras](#): Criar um algoritmo que recebe um arquivo .txt e retorna um dicionário indicando a frequência de palavras.
+- [Números Binários](#): Conhecer sobre `Números na base 2` desde sua origem e escrever um algoritmo que recebe recebe hexagramas do I Ching e performa operações matemáticas entre eles.
 
 ### Exercícios - Aula 8
-- [Turtle](#)
-- [Regex](#)
-- [SQLite](#)
+- [Turtle](#): Conhecer o módulo `Turtle` do Python, aprender sobre LOGO e Pedagogia Constutivista.
+- [Regex](#): Aprender o módulo`re` sobre como funciona Regex e a sintaxe básica de regex.
+- [SQLite](#): Conhecer o módulo `sqlite3` do Python, aprender o que é SQL, os comandos básicos de SQLite e desenvolver um programa que percorre a pasta de exercícios e salva no banco de dados os nomes dos arquivos, extensão, tamanho e número de linhas. 
 
 ### Exercícios - Aula 9
 - [Escrevendo testes](#)
