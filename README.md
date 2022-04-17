@@ -15,9 +15,9 @@
 - [Sólidos de Platão](#): Entender o que são os `Sólidos de Platão` suas características e desenvolver um rolador de dados.
 
 ### Exercícios - Aula 4
-- [Regra de Crammer](#)
-- [Tabela ASCII](#)
-- [Progreção Aritmética e Progressão Geométrica](#)
+- [Regra de Crammer](#): Entender o básico sobre `equações` e desenvolver um algoritmo que resolva sistemas lineares usando a Regra de Crammer.
+- [Tabela ASCII](#): Compreender como funciona `ASCII` e `Unicode` e desenvolver um script que imprima a tabela ascii indicando os valores de cada símbolo ao lado no terminal.
+- [Progreção Aritmética e Progressão Geométrica](#): Entender como funcionam as `progressões` e desenvolver um algoritmo que nos diga o elemento n de determinada progressão.
 
 ### Exercícios - Aula 5
 - [Calculadora RPN](#)
