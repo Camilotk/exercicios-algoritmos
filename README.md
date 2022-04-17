@@ -10,9 +10,9 @@
 - [Fórmula de Báskhara](./ex6_bhaskara.md): Conhecer a `Fórmula de Báskhara` e fazer um algoritmo que retorna os quadrados dependendo do Delta.
 
 ### Exercícios - Aula 3 
-- [Conversor de Sistemas de Numeração](#)
-- [Criptografia](#)
-- [Sólidos de Platão](#)
+- [Conversor de Sistemas de Numeração](#): Compreender o `Sistema Internacional de Unidades` e criar um algoritmo capaz de converter diferentes medidas.
+- [Criptografia](#): Conhecer como funciona a `Criptografia` e desenvolver um algoritmo que calcule a Cifra de César.
+- [Sólidos de Platão](#): Entender o que são os `Sólidos de Platão` suas características e desenvolver um rolador de dados.
 
 ### Exercícios - Aula 4
 - [Regra de Crammer](#)
