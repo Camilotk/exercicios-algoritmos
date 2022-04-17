@@ -25,9 +25,9 @@
 - [Sequência de Fibonacci](#): Conhecer a `Sequência de Fibonacci` e desenvolver um algoritmo recursivo que retorno o n elemento da sequência.
 
 ### Exercícios - Aula 6
-- [Torre de Hanói](#)
-- [Funções Matempaticas](#)
-- [Funções Compostas](#)
+- [Torre de Hanói](#): Conhecer o problema da `Torre de Hanói` e escrever um algoritmo que resolva o criar um algoritmo que mova um numero n de discos para outro.
+- [Funções Matemáticas](#): Conhecer `Funções Lineares`, `Funções Quadráticas` e `Funções Trigonométricas` e criar algoritmos que plotem essas funções usando matplotlib ou seaborn.
+- [Funções Compostas](#): Entender sobre `composição de funções` e escrever algoritmos que usem `High Order Functions` e `Currying`.
 
 ### Exercícios - Aula 7
 - [Conversor de Criptomoedas](#)
