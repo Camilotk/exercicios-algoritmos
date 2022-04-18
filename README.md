@@ -5,8 +5,8 @@
 - [Teorema de Pitágoras](./ex3_pitagoras.md): Conhecer o `Teorema de Pitágoras` e criar um algoritmo que retorne o valor da hipotenusa dado os catetos.
 
 ### Exercícios - Aula 2
-- [Mediana](./ex4_mediana.md): Entender o conceito de `mediana` e desenvolver um porgrama que retorne a mediana de um conjunto de dados.
-- [Números Pares](./ex5_pares.md): Compreender a `paridade` dos números e fazer um algoritmo que determina a vitória do par-ou-ímpar.
+- [Números Pares](./ex4_pares.md): Compreender a `paridade` dos números e fazer um algoritmo que determina a vitória do par-ou-ímpar.
+- [Mediana](./ex5_mediana.md): Entender o conceito de `mediana` e desenvolver um porgrama que retorne a mediana de um conjunto de dados.
 - [Fórmula de Báskhara](./ex6_bhaskara.md): Conhecer a `Fórmula de Báskhara` e fazer um algoritmo que retorna os quadrados dependendo do Delta.
 
 ### Exercícios - Aula 3 
