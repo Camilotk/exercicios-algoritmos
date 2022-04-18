@@ -22,15 +22,18 @@ Podemos aplicar isso para saber se um número é par porque pela regra dos núme
 
 <br>
 <p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=$8 \Rightarrow 8 \div 2 = 4 \text{ , resto 0 } \Rightarrow \text{ 8 é par }$" width="500">
+    <img src="https://render.githubusercontent.com/render/math?math={\huge 8 \Rightarrow 8 \div 2 = 4 \text{ , resto 0 } \Rightarrow \text{ 8 é par }}#gh-light-mode-only">
+    <img src="https://render.githubusercontent.com/render/math?math={\huge \color{white} 8 \Rightarrow 8 \div 2 = 4 \text{ , resto 0 } \Rightarrow \text{ 8 é par }}#gh-dark-mode-only">
 </p>
 <br>
 <p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=$77 \Rightarrow 77 \div 2 =  \text{ 38, resto 1 } \Rightarrow \text{ 77 é ímpar }$" width="550">
+    <img src="https://render.githubusercontent.com/render/math?math={\huge 77 \Rightarrow 77 \div 2 =  \text{ 38, resto 1 } \Rightarrow \text{ 77 é ímpar }}#gh-light-mode-only">
+    <img src="https://render.githubusercontent.com/render/math?math={\huge \color{white} 77 \Rightarrow 77 \div 2 =  \text{ 38, resto 1 } \Rightarrow \text{ 77 é ímpar }}#gh-dark-mode-only">
 </p>
 <br>
 <p align="center">
-    <img src="https://render.githubusercontent.com/render/math?math=$4346 \Rightarrow 4346 \div 2 = 2173 \text{ , resto 0 } \Rightarrow \text{ 4346 é par }$" width="650">
+    <img src="https://render.githubusercontent.com/render/math?math={\huge 4346 \Rightarrow 4346 \div 2 = 2173 \text{ , resto 0 } \Rightarrow \text{ 4346 é par }}#gh-light-mode-only">
+     <img src="https://render.githubusercontent.com/render/math?math={\huge \color{white} 4346 \Rightarrow 4346 \div 2 = 2173 \text{ , resto 0 } \Rightarrow \text{ 4346 é par }}#gh-dark-mode-only">
 </p>
 
 Porém há uma forma mais eficiente de saber se um número é par quando trabalhamos com computações grandes (e que pode ser usado matemáticamente para testar de forma eficiente se um número é par), pois os números pares independente do número algarismos conservam a lei de divisibilidade por 2 em seu último algarismo, ou seja para saber se 4346 é par não precisamos dividir o número inteiro por 2 e ver o resto basta que façamos isso com seu último algarismo, nesse caso 6, como 6 é divísivel por 2 sabemos 4346 é par.
